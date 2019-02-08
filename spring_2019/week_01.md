@@ -1,24 +1,17 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> This past week, I've been trying to get the new team member up to speed with our code base and the frameworks that we're using.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> I've also been working on wireframing out what I want the stat pages to look like so that it's easier to develop.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> This week, I'll be working on finishing up my wireframe designs and starting to implement them on the frontend.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Nothing blocking
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Had a ton of assignments due this week so I wasn't able to do much dev work, but I did a good amount of research/design that will help in the long run.
